@@ -1,4 +1,7 @@
-# test coverage for  [gulp-eslint (v3.0.1)](https://github.com/adametry/gulp-eslint#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-eslint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-eslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-eslint.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-eslint)
+# npmtest-gulp-eslint
+
+#### test coverage for  [gulp-eslint (v3.0.1)](https://github.com/adametry/gulp-eslint#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-eslint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-eslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-eslint.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-eslint)
+
 #### A gulp plugin for processing files with ESLint
 
 [![NPM](https://nodei.co/npm/gulp-eslint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-eslint)
